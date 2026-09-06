@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://d2b4qeneh8wjw"]
+
+[ext_resource type="Script" uid="uid://2kt0clgqgafi" path="res://menuscript.gd" id="1_uubjt"]
+
+[node name="Menu" type="Node2D" unique_id=327867645]
+script = ExtResource("1_uubjt")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1170650138]
+position = Vector2(288, 162)
+zoom = Vector2(2, 2)
+
+[node name="Control" type="Control" parent="." unique_id=1192807258]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="Start" type="Button" parent="Control" unique_id=1784123028]
+layout_mode = 0
+offset_right = 8.0
+offset_bottom = 8.0
+text = "Play game"
+
+[node name="Label" type="Label" parent="Control" unique_id=1833928774]
+layout_mode = 0
+offset_top = 31.0
+offset_right = 40.0
+offset_bottom = 54.0
+text = "Controls: f to kick, space to spin, left arrow to check for guy"
+
+[connection signal="pressed" from="Control/Start" to="." method="_on_start_pressed"]
