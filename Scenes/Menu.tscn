@@ -1,9 +1,9 @@
 [gd_scene format=3 uid="uid://d2b4qeneh8wjw"]
 
-[ext_resource type="Script" uid="uid://2kt0clgqgafi" path="res://menuscript.gd" id="1_uubjt"]
+[ext_resource type="Script" uid="uid://2kt0clgqgafi" path="res://Scripts/menuscript.gd" id="1_3kf3n"]
 
 [node name="Menu" type="Node2D" unique_id=327867645]
-script = ExtResource("1_uubjt")
+script = ExtResource("1_3kf3n")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1170650138]
 position = Vector2(288, 162)

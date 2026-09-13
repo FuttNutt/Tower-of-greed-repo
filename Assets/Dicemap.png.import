@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dumc1wjm4rlvn"
-path="res://.godot/imported/Diceline.png-39339710b765007f4bd61a2dd4145e6e.ctex"
+uid="uid://ujta45jtj2l0"
+path="res://.godot/imported/Dicemap.png-0f389e3917a99fa4f8d15bc9607122ec.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Diceline.png"
-dest_files=["res://.godot/imported/Diceline.png-39339710b765007f4bd61a2dd4145e6e.ctex"]
+source_file="res://Assets/Dicemap.png"
+dest_files=["res://.godot/imported/Dicemap.png-0f389e3917a99fa4f8d15bc9607122ec.ctex"]
 
 [params]
 

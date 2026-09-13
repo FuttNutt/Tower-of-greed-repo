@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://rrwt0knnda0v"
-path="res://.godot/imported/Slots.png-cb25ba40b5e8913bdb34192cd74aec7e.ctex"
+uid="uid://dumc1wjm4rlvn"
+path="res://.godot/imported/Diceline.png-54140dee32e657bab93e1ab8c96e6e5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Slots.png"
-dest_files=["res://.godot/imported/Slots.png-cb25ba40b5e8913bdb34192cd74aec7e.ctex"]
+source_file="res://Assets/Diceline.png"
+dest_files=["res://.godot/imported/Diceline.png-54140dee32e657bab93e1ab8c96e6e5e.ctex"]
 
 [params]
 
