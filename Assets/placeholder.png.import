@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ujta45jtj2l0"
-path="res://.godot/imported/Dicemap.png-0f389e3917a99fa4f8d15bc9607122ec.ctex"
+uid="uid://bon5i8alivfmn"
+path="res://.godot/imported/placeholder.png-139f8313a3b639ca21dd685b0d34f2d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Dicemap.png"
-dest_files=["res://.godot/imported/Dicemap.png-0f389e3917a99fa4f8d15bc9607122ec.ctex"]
+source_file="res://Assets/placeholder.png"
+dest_files=["res://.godot/imported/placeholder.png-139f8313a3b639ca21dd685b0d34f2d0.ctex"]
 
 [params]
 

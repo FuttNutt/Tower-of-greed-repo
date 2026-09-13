@@ -1,6 +1,6 @@
 [gd_resource type="AtlasTexture" format=3 uid="uid://51xjiic4dv3u"]
 
-[ext_resource type="Texture2D" uid="uid://ujta45jtj2l0" path="res://Assets/Dicemap.png" id="1_45jxr"]
+[ext_resource type="Texture2D" uid="uid://ujta45jtj2l0" path="res://Assets/Dice/Dicemap.png" id="1_45jxr"]
 
 
 [resource]
